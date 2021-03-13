@@ -1,6 +1,6 @@
 # first-git-training
 
-This repository is created for practicing git and markdown as part of the **TWT training** on *docs-as-code*.
+This repository is created for practicing git, jekyll, and markdown as part of the **TWT training** on *docs-as-code*.
 
 ## Before You Start
 
