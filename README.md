@@ -10,3 +10,5 @@ Ensure that you have these things in place.
 - GitBash
 - Notepad ++
 - *Blessings of the electricity and internet service providers*
+
+You are good to go now. Let's get started!
