@@ -6,7 +6,7 @@ This repository is created for practicing git, jekyll, and markdown as part of t
 
 Ensure that you have these things in place.
 
-- A GitHub account
+- GitHub account
 - GitBash
 - Notepad ++
-- *Blessings of the electricity and internet providers*
+- *Blessings of the electricity and internet service providers*
