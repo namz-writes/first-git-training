@@ -18,4 +18,4 @@ As you upcycle things, you start identifing the wasteful practices and one-time 
  - [Sources of Materials](./topics/sources)
 
 
-{{ site.home }}
+[Back to Home](./topics/index)

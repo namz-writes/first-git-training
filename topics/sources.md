@@ -13,8 +13,8 @@ The following are some sources that you can look out for collecting materials fo
 ## See Also
 
  - [Difference between Upcycling and Recycling](./topics/recycle-upcycle)
- - [Inspiring Upcycle Ideas] (./topics/inspirations)
+ - [Inspiring Upcycle Ideas](./topics/inspirations)
 
-{{ site.home }} 
+[Back to Home](./topics/index)
 
 
