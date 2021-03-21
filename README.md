@@ -1,14 +1,11 @@
-# first-git-training
+# Docs-as-Code Training
 
 This repository is created for practicing git, jekyll, and markdown as part of the **TWT training** on *docs-as-code*.
 
-## Before You Start
+## Resources Used
 
-Ensure that you have these things in place.
+- Static Site Generator: Jekyll
+- Versioning System: GitHub
+- Authoring Language: Markdown
+- Templating Engine: Liquid
 
-- GitHub account
-- GitBash
-- Notepad ++
-- *Blessings of the electricity and internet service providers*
-
-You are good to go now. Let's get started!
