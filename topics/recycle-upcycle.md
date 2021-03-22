@@ -1,5 +1,5 @@
 ---
-layout: template_demo
+layout: template_other
 title: Difference between Upcycling and Recycling
 ---
 
@@ -27,4 +27,3 @@ EarthHero also explains this difference through their article [Upcycling vs. Rec
  - [Inspiring Upcycle Ideas](./inspirations)
  - [Source of Materials](./sources)
   
-[Back to Home](https://namz-writes.github.io/first-git-training/)

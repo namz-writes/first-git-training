@@ -42,4 +42,3 @@ Interested in learning more about upcycling? See these topics:
  - [Inspiring Upcycle Ideas](./topics/inspirations)
  - [Source of Materials](./topics/sources)
  
-{% include common_footer.txt %}
