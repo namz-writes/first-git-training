@@ -1,5 +1,6 @@
 ---
-title: Types of Materials
+layout: template_demo
+title: Source of Materials
 ---
 # {{page.title}}
 
@@ -14,7 +15,8 @@ The following are some sources that you can look out for collecting materials fo
 
  - [Difference between Upcycling and Recycling](./recycle-upcycle)
  - [Inspiring Upcycle Ideas](./inspirations)
-
-[Back to Home](./first-git-training/index)
+ - [Benefits of Upcycling](./benefits)
+ 
+[Back to Home](https://namz-writes.github.io/first-git-training/)
 
 

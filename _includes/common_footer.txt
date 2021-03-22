@@ -1,2 +1,3 @@
-
-_Upcycling with Namrata_
+</hr>
+<p><i>Upcycling with Namrata</i></p>
+<p><a href="https://namz-writes.github.io/first-git-training/">Home</a></p>

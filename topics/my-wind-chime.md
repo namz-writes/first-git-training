@@ -1,4 +1,5 @@
 ---
+layout: template_demo
 title: Upcycled Wind Chime
 ---
 
@@ -49,6 +50,6 @@ The lid of the container serves as the top portion from which the discs can hang
 
 And that's it! You have a brand new wind chime, upcycled without much cost, made from materials that end up in trash.
 
-[Back to Home](https://namz-writes.github.io/first-git-training/)
+[Home](https://namz-writes.github.io/first-git-training/)
  
  

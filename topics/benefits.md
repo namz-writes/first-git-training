@@ -1,4 +1,5 @@
 ---
+layout: template_demo
 title: Benefits of Upcycling
 ---
 
@@ -15,7 +16,7 @@ As you upcycle things, you start identifing the wasteful practices and one-time 
 
  - [Difference between Upcycling and Recycling](./recycle-upcycle)
  - [Inspiring Upcycle Ideas](./inspirations)
- - [Sources of Materials](./sources)
+ - [Source of Materials](./sources)
 
 
 [Back to Home](https://namz-writes.github.io/first-git-training/)

@@ -1,4 +1,5 @@
 ---
+layout: template_demo
 title: Inspiring Upcycle Ideas
 ---
 
@@ -14,5 +15,6 @@ Here are some individuals and brands that are upcycling and creating some superb
 
  - [Difference between Upcycling and Recycling](./recycle-upcycle)
  - [Benefits of Upcycling](./benefits)
- 
+ - [Source of Materials](./sources)
+  
 [Back to Home](https://namz-writes.github.io/first-git-training/)

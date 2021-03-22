@@ -1,4 +1,5 @@
 ---
+layout: template_demo
 title: Difference between Upcycling and Recycling
 ---
 
@@ -15,9 +16,8 @@ title: Difference between Upcycling and Recycling
 | Recycling is usually done at specialized facilities. | Upcycling can be easily done at home also. |
 
 The following illustration from Hipcycle explains this difference.
-
 ![Upcycle vs Recycle](./difference.jpg)
-image credit: Hipcycle https://www.pinterest.pt/pin/514888169894564082/
+image credit: [Hipcycle](https://www.pinterest.pt/pin/514888169894564082/)
 
 EarthHero also explains this difference through their article [Upcycling vs. Recycling](https://earthhero.com/upcycling-vs-recycling).
 
@@ -25,5 +25,6 @@ EarthHero also explains this difference through their article [Upcycling vs. Rec
 
  - [Benefits of Upcycling](./benefits)
  - [Inspiring Upcycle Ideas](./inspirations)
- 
+ - [Source of Materials](./sources)
+  
 [Back to Home](https://namz-writes.github.io/first-git-training/)
