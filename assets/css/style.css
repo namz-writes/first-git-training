@@ -2,16 +2,14 @@ h1 {
 	color: #3cb371;
 	font-family: verdana;
 	font-size: 16 pt;
-	border-bottom: 1px solid #404040;
-
+	
 	}
 
 h2 {
 	color: #404040;
 	font-family: verdana;
 	font-size: 14 pt;
-	border-bottom: 1px solid #a0a0a0;
-
+	
 	}	
 
 hr { 
@@ -44,7 +42,7 @@ blockquote {
   color: #FFFFFF;
   font-family: verdana;
   font-size: 11pt;
-  line-height: 100%;
+  line-height: 200%;
 }
 
 table {
