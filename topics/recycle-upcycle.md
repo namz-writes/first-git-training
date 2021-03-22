@@ -4,7 +4,7 @@ title: Difference between Upcycling and Recycling
 
 # {{ page.title }}
 
-![Recycle and Upcycle](./../assets/both-logos.jpg)
+![Recycle and Upcycle](./both-logos.jpg)
 
 | Recycling | Upcycling |
 |---------|---------|
@@ -16,7 +16,7 @@ title: Difference between Upcycling and Recycling
 
 The following illustration from Hipcycle explains this difference.
 
-![Upcycle vs Recycle](./../assets/difference.jpg)
+![Upcycle vs Recycle](./difference.jpg)
 image credit: Hipcycle https://www.pinterest.pt/pin/514888169894564082/
 
 EarthHero also explains this difference through their article [Upcycling vs. Recycling](https://earthhero.com/upcycling-vs-recycling).
