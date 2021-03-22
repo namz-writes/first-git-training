@@ -17,7 +17,7 @@ In 2020, I added another verse to it - Upcycle.
 
 ## What is Upcycling?
 
-![Upcycling](./../images/upcycling.jpg)
+![Upcycling](https://github.com/namz-writes/first-git-training/blob/main/images/upcycling.jpg)
 
 Upcycling is the creative process of transforming old, broken, unused, or discarded materials into useful and beautiful things with more value or higher quality.
 
