@@ -12,8 +12,7 @@ Here are some individuals and brands that are upcycling and creating some superb
 
 ## See Also
 
- - [Upcycle Now and How](./topics/index)
- - [Difference between Upcycling and Recycling](./topics/recycle-upcycle)
- - [Benefits of Upcycling](./topics/benefits)
+ - [Difference between Upcycling and Recycling](./recycle-upcycle)
+ - [Benefits of Upcycling](./benefits)
  
-[Back to Home](./topics/index)
+[Back to Home](index)

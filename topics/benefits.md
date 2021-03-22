@@ -13,9 +13,9 @@ As you upcycle things, you start identifing the wasteful practices and one-time 
 
 ## See Also
 
- - [Difference between Upcycling and Recycling](./topics/recycle-upcycle)
- - [Inspiring Upcycle Ideas](./topics/inspirations)
- - [Sources of Materials](./topics/sources)
+ - [Difference between Upcycling and Recycling](./recycle-upcycle)
+ - [Inspiring Upcycle Ideas](./inspirations)
+ - [Sources of Materials](./sources)
 
 
-[Back to Home](./topics/index)
+[Back to Home](index)

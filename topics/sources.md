@@ -12,9 +12,9 @@ The following are some sources that you can look out for collecting materials fo
 
 ## See Also
 
- - [Difference between Upcycling and Recycling](./topics/recycle-upcycle)
- - [Inspiring Upcycle Ideas](./topics/inspirations)
+ - [Difference between Upcycling and Recycling](./recycle-upcycle)
+ - [Inspiring Upcycle Ideas](./inspirations)
 
-[Back to Home](./topics/index)
+[Back to Home](index)
 
 
