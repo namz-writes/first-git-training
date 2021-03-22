@@ -18,4 +18,4 @@ As you upcycle things, you start identifing the wasteful practices and one-time 
  - [Sources of Materials](./sources)
 
 
-[Back to Home](index)
+[Back to Home](https://namz-writes.github.io/first-git-training/)

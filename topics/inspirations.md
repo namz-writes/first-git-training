@@ -15,4 +15,4 @@ Here are some individuals and brands that are upcycling and creating some superb
  - [Difference between Upcycling and Recycling](./recycle-upcycle)
  - [Benefits of Upcycling](./benefits)
  
-[Back to Home](index)
+[Back to Home](https://namz-writes.github.io/first-git-training/)
