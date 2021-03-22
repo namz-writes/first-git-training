@@ -1,5 +1,5 @@
 ---
-layout: template_demo
+layout: template_other
 title: Inspiring Upcycle Ideas
 ---
 
@@ -17,4 +17,3 @@ Here are some individuals and brands that are upcycling and creating some superb
  - [Benefits of Upcycling](./benefits)
  - [Source of Materials](./sources)
   
-[Back to Home](https://namz-writes.github.io/first-git-training/)

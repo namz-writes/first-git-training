@@ -5,8 +5,9 @@ title: Upcycled Wind Chime
 
 # {{ page.title }}
 
+An upcycled wind chime made from plastics discs and lid of cola container.
 
-A upcycled wind chime made from plastics discs and lid of cola container.
+![Upcycled Wind Chime](./wind-chime.jpg)
 
 
 ## {{ site.why }}
@@ -40,10 +41,10 @@ The lid of the container serves as the top portion from which the discs can hang
 
  1. Heat the needle on a candle flame and make holes at equal intervals on the rim of the lid.
  1. In the same way, make a hole to the top of the plastic discs.
- 1. Cut threads of different lenghts as per the design you want to create.
+ 1. Cut threads of different lengths as per the design you want to create.
  1. Pass one end of the thread through the hole in the plastic disc and tie a small knot.
  1. Pass the other end through the hole in the lid and tie a small knot.
- 1. Secure the knots using a small drop of fevicol so that the knots harden and do not become loose.
+ 1. Secure the knots using a small drop of Fevicol so that the knots harden and do not become loose.
  1. Make two small holes at the center of the lid and pass the metal paper clip hook through them. You can then tie a thread to the hook to suspend the wind chime.
  1. Paint the lid and the discs using acrylic paints with the color of your choice. You can also paint the threads to coordinate with the colors of your lid and discs.
  > Tip: You can rest the lid on top of a bottle while painting so that the discs do not sway and stick to each other. You can leave it overnight to dry.

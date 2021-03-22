@@ -1,5 +1,5 @@
 ---
-layout: template_demo
+layout: template_other
 title: Source of Materials
 ---
 # {{page.title}}
@@ -17,6 +17,6 @@ The following are some sources that you can look out for collecting materials fo
  - [Inspiring Upcycle Ideas](./inspirations)
  - [Benefits of Upcycling](./benefits)
  
-[Back to Home](https://namz-writes.github.io/first-git-training/)
+
 
 
